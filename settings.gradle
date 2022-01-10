@@ -1,0 +1,5 @@
+rootProject.name = 'Multi-moduls'
+include 'db'
+include 'api'
+include 'service'
+
